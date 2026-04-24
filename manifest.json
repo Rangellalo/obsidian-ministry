@@ -1,0 +1,10 @@
+{
+	"name": "Ministry",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"author": "Rangellalo",
+	"authorUrl": "https://github.com/Rangellalo",
+	"authorEmail": "rangellalo@gmail.com",
+	"description": "A warm, purposeful theme designed for ministers and pastors. Features rich sermon outline hierarchy, theology callouts, scripture styling, projector-ready proclaim mode, and optimized reading/print views for sermon preparation and delivery.",
+	"isDesktopOnly": false
+}
