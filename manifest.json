@@ -1,7 +1,7 @@
 {
   "id": "the-preachers-tool",
   "name": "The Preacher's Tool",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "minAppVersion": "1.5.0",
   "description": "A sermon, Bible study, workbook, and print-preparation workflow plugin for ministers and pastors.",
   "author": "Edward Rangel",
